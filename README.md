@@ -32,7 +32,7 @@
 ### Cloud Permission Governance for Xometry (2025)
 
 - Role: Principal Security Architect
-- Description: Collaborated across the organization to develop Security Control Policies (AWS), IAM permissions, and Organizational Policies (GCP), establishing guardrails to prevent unnecessary root and administrative access.
+- Description: Collaborated across the organization to develop Service Control Policies (AWS), IAM permissions, and Organizational Policies (GCP), establishing guardrails to prevent unnecessary root and administrative access.
 - Technologies: AWS Security Controls, IAM, GCP Organizational Policies, Terraform/OpenTofu
 - Outcome: Significantly enhanced corporate security posture with defined JIT triage and break‑glass processes, ensuring elevated access is granted only to authorized users while preserving operational effectiveness.
 
