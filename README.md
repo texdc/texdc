@@ -12,7 +12,7 @@
 - Threat Modeling
 - AI Governance
 - Supply‑Chain Security
-- Value‑Based Costing
+- Vendor Analysis and Budgeting
 
 ## Contact
 
