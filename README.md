@@ -4,15 +4,15 @@
 
 ## Skills
 
-- Cross-discipline Project Leadership
-- Identity and Access Management (IAM)
-- Risk Management
-- Security and System Architecture
-- Infrastructure and Policy Automation
-- AI Governance
-- Supply‑Chain Security
+- Cross-discipline Leadership and Mentoring
 - Vendor Analysis and Budgeting
 - Hiring and Planning
+- Risk Management
+- AI Governance
+- Identity and Access Management (IAM)
+- Security and System Architecture
+- Infrastructure and Policy Automation
+- Supply‑Chain Security
 
 ## Contact
 
