@@ -8,11 +8,11 @@
 - Identity and Access Management (IAM)
 - Risk Management
 - Security and System Architecture
-- Infrastructure Automation
-- Threat Modeling
+- Infrastructure and Policy Automation
 - AI Governance
 - Supply‑Chain Security
 - Vendor Analysis and Budgeting
+- Hiring and Planning
 
 ## Contact
 
