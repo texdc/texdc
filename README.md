@@ -1,6 +1,6 @@
 # Hi 👋, I'm George Cooksey
 
-> Cybersecurity Leader | 15+ years establishing early-stage startups
+> Cybersecurity Leader | 15+ years establishing security programs for early-stage startups
 
 ## Skills
 
